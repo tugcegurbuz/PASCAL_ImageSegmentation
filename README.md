@@ -1,2 +1,2 @@
 # PASCAL_ImageSegmentation
-Body parts segmentation from PASCAL dataset
+Segments body parts from PASCAL dataset
